@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1547108761 source:e:\document\程序\c++程序\成绩系统\成绩系统\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<iomanip>
+	<Windows.h>
+

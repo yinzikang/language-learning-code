@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540998242 source:e:\document\程序\c++程序\100个素数\100个素数\main.cpp
+	<iostream>
+	<iomanip>
+

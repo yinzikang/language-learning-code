@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531643097 source:e:\document\程序\c++程序\分数加减法\分数加减法\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+

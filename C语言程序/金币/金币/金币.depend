@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535012181 source:e:\document\程序\c语言程序\金币\金币\main.c
+	<stdio.h>
+	<stdlib.h>
+

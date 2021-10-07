@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1495373193 source:e:\noj\0000000002\main.c
+	<stdio.h>
+
+1497057859 source:e:\noj\dazuoye1\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

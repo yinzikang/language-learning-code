@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1497368403 source:e:\noj\taiyangxiyundong\main.cpp
+	<gl/glut.h>
+	<math.h>
+	<iostream>
+
+1368251360 d:\codeblocks\sdk\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1368251360 d:\codeblocks\sdk\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+

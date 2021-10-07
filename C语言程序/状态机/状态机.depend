@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522497900 source:e:\资料及作业\c语言程序\状态机\main.c
+	<stdio.h>
+	<string.h>
+

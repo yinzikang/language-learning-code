@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520150292 source:e:\资料及作业\c语言程序\拉拉\main.c
+	<stdio.h>
+	<string.h>
+

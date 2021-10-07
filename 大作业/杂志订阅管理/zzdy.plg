@@ -1,0 +1,39 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: zzdy - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2D.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/zzdy.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\Administrator\×ÀÃæ\Ò¶¶û²¨\zzdy.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2D.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2E.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/zzdy.pdb" /debug /machine:I386 /out:"Debug/zzdy.exe" /pdbtype:sept 
+".\Debug\zzdy.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2E.tmp"
+<h3>Output Window</h3>
+Compiling...
+zzdy.c
+c:\documents and settings\administrator\×ÀÃæ\Ò¶¶û²¨\zzdy.c(55) : warning C4013: 'getch' undefined; assuming extern returning int
+c:\documents and settings\administrator\×ÀÃæ\Ò¶¶û²¨\zzdy.c(87) : warning C4101: 'movenode' : unreferenced local variable
+c:\documents and settings\administrator\×ÀÃæ\Ò¶¶û²¨\zzdy.c(153) : warning C4101: 'ch' : unreferenced local variable
+c:\documents and settings\administrator\×ÀÃæ\Ò¶¶û²¨\zzdy.c(188) : warning C4101: 'i' : unreferenced local variable
+c:\documents and settings\administrator\×ÀÃæ\Ò¶¶û²¨\zzdy.c(188) : warning C4101: 'j' : unreferenced local variable
+c:\documents and settings\administrator\×ÀÃæ\Ò¶¶û²¨\zzdy.c(259) : warning C4033: 'main' must return a value
+c:\documents and settings\administrator\×ÀÃæ\Ò¶¶û²¨\zzdy.c(184) : warning C4715: 'CheckReader' : not all control paths return a value
+Linking...
+
+
+
+<h3>Results</h3>
+zzdy.exe - 0 error(s), 7 warning(s)
+</pre>
+</body>
+</html>

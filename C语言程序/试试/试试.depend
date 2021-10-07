@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520650751 source:e:\资料及作业\c语言程序\试试\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

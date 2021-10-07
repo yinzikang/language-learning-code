@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531573714 source:e:\document\程序\c++程序\强大的字符串类\各种字符串骚操作\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+

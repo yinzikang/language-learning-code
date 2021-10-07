@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531709348 source:e:\document\程序\c++程序\lucky one\电话号码\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
